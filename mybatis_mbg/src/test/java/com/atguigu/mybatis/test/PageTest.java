@@ -42,6 +42,7 @@ public class PageTest {
         list.forEach(System.out::println);
         System.out.println(pageInfo);
         System.out.println(pageInfo);
+        System.out.println("master 合并冲突");
     }
 
 }
