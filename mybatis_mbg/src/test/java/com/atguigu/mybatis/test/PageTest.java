@@ -41,6 +41,7 @@ public class PageTest {
         PageInfo<Emp> pageInfo = new PageInfo<>(list, 5);
         list.forEach(System.out::println);
         System.out.println(pageInfo);
+        System.out.println(pageInfo);
     }
 
 }
