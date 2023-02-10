@@ -43,6 +43,7 @@ public class PageTest {
         System.out.println(pageInfo);
         System.out.println(pageInfo);
         System.out.println("master 合并冲突");
+        System.out.println("hot-fix2合并冲突");
     }
 
 }
